@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @remern
+- 👀 I’m interested in everything and nothing
+- 🌱 I’m currently learning JS, React, HTML and CSS.
+- 💞️ I’m looking to collaborate on nothing.
